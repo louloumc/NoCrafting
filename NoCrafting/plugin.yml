@@ -1,0 +1,10 @@
+name: NoCrafting
+main: com.plugins.loulou.NoCrafting
+version: 1.0
+api-version: 1.7.10
+author: bilibili
+
+permissions:
+  nocrafting.bypass:
+    description: 允许玩家绕过合成限制
+    default: op
